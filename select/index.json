@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "all the good girls go to hell",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2025-12-01T02:54:53.624478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All at Sea",
+      "artist": "The Longest Johns",
+      "has_synced": false,
+      "path": "select/01_All_at_Sea_The_Longest_Johns.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We All Lift Together (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/02_We_All_Lift_Together_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All American",
+      "artist": "Mickey Guyton",
+      "has_synced": true,
+      "path": "select/03_All_American_Mickey_Guyton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All American",
+      "artist": "Mickey Guyton",
+      "has_synced": true,
+      "path": "select/04_All_American_Mickey_Guyton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker feat. Noah Cyrus, Digital Farm Animals & Juliander",
+      "has_synced": true,
+      "path": "select/05_All_Falls_Down_Alan_Walker_feat._Noah_Cyrus,_Digital_Farm_Animals_&_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker;Noah Cyrus;Digital Farm Animals;Juliander",
+      "has_synced": true,
+      "path": "select/06_All_Falls_Down_Alan_Walker;Noah_Cyrus;Digital_Farm_Animals;Juliander.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/07_All_Night_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/08_All_Night_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Steve Aoki feat. Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/09_All_Night_Steve_Aoki_feat._Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Steve Aoki.;Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/10_All_Night_Steve_Aoki.;Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Night To Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/11_All_Night_To_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Night to Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/12_All_Night_to_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/13_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/14_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forever After All",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/15_Forever_After_All_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift feat. Maren Morris",
+      "has_synced": true,
+      "path": "select/16_You_All_Over_Me_(feat._Maren_Morris)_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift_feat._Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You All Over Me (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_You_All_Over_Me_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All Is Known",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/18_All_Is_Known_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All Is Known",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/19_All_Is_Known_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_all_the_good_girls_go_to_hell_Billie_Eilish.txt"
+    }
+  ]
+}
